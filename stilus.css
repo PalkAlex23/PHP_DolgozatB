@@ -1,0 +1,15 @@
+main {
+    max-width: 900px;
+    width: 90%;
+    margin: auto;
+}
+
+table, tr, th, td {
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
